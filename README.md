@@ -38,14 +38,15 @@ and it originates from [maskrcnn-benchmark](https://github.com/facebookresearch/
 
 
 
+**PROJECT**
 
-                                                **INPUT VIDEO**
+                                                           INPUT VIDEO
 
 <div align="center">
   <img src="https://github.com/sakshi0100/Social-distancing-detection/blob/master/input.gif"/>
 </div>
 
-                                                  **OUTPUT**
+                                                              OUTPUT
 
 <div align="center">
   <img src="https://github.com/sakshi0100/Social-distancing-detection/blob/master/output.gif"/>
